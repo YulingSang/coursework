@@ -1,0 +1,33 @@
+User Manual
+1. Log in
+	Write your QM number on the Textfeild(Your QM number is nine digits).
+	Press the button "Login":
+		(1) If you have regested£¬log in successfully.
+		(2) If you havn't regested, show a tip.
+	Press the button "Reset": 
+		(1) Clear the Textfeild
+	Press the button "Exit":
+		(1) Close the system
+2. Pay
+	(1) If you are not fined during last using, it will show your condition.
+	(2) If you are fined, it will ask you to pay for it.
+	Press the button "Go on":
+		Come into the system.
+	Press the button "Pay":
+		Pay for it.
+	Press the button "Back":
+		Back to the MainUI page.
+3.Check station
+	(1) There are three station.Each station has eight location.
+	(2)"Green" represent the scooter are available.
+	(3)"Red" represent the location are free, and you can retun your scooter.
+4.Borrow: 
+	Press the button check station to check available scooters. 
+		(1)There are three buttons represent different station.
+		You can choose where to borrow scooter.
+		(2)After choose,the system help you to choose scooter 
+		you have 1 minute to take away scooter.
+5.Return
+	(1)You can first press the button "check station" to check where are free to return.
+	(2)There are three buttons represnt different station.You can choose where to return scooter.
+	(3)If you break the time limit, you will receive a warning.
