@@ -15,4 +15,4 @@ Here is a extra tip for using the scooter system.
 	Administrator: 161193558
 	User: 161193557
 	
-Details could be found in userManual.txt.
+Details could be found in User Manual.txt.
